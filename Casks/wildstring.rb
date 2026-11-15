@@ -1,6 +1,6 @@
 cask "wildstring" do
-  version "0.8.16"
-  sha256 "c6bdd150f12de55d8b0364735c12f95d69903744b30fa42f9241e604564cb352"
+  version "0.8.17"
+  sha256 "c95fdda66f0bf5cfd30355011fc5b71c6ada0b8799410c9bf4df6be6497cb767"
 
   url "https://github.com/qingmuhy744/wildstring/releases/download/v#{version}/WildString-macOS.dmg"
   name "WildString"
